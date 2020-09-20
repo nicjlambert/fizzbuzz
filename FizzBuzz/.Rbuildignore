@@ -1,0 +1,5 @@
+^FizzBuzz\.Rproj$
+^\.Rproj\.user$
+^FizzBuzz\.Rcheck$
+^FizzBuzz.*\.tar\.gz$
+^FizzBuzz.*\.tgz$
