@@ -1,3 +1,15 @@
+# directory tree: fs::dir_tree()
+
+# usethis::use_description(fields = list(Title = "FizzBuzz",
+#                                        `Authors@R` = 'person("Nicholas", "Lambert",
+#                                        email = "lambni85@gmail.com",
+#                                        role = c("aut", "cre"))',
+#                                        Description = "Solution to FizzBizz Interview Question."))
+
+# usethis::use_mit_license("Nicholas Lambert")
+
+# usethis::use_data_raw()
+
 # solution 1
 fbnums <- 1:100
 output <- vector()

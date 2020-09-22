@@ -3,3 +3,5 @@
 ^FizzBuzz\.Rcheck$
 ^FizzBuzz.*\.tar\.gz$
 ^FizzBuzz.*\.tgz$
+^LICENSE\.md$
+^data-raw$
