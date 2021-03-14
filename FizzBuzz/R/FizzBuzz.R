@@ -11,6 +11,7 @@
 #' @export divisibleBy
 #'
 #' @examples
+#'
 divisibleBy <- function(range, triggers) {
   output <- vector()
 
