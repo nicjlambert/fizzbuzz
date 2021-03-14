@@ -5,3 +5,6 @@
 ^fizzbuzz.*\.tar\.gz$
 ^fizzbuzz.*\.tgz$
 ^Makefile$
+^\.travis\.yml$
+^\.github$
+^appveyor\.yml$
