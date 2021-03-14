@@ -2,3 +2,7 @@
 fizzbuzz.Rcheck/
 fizzbuzz*.tar.gz
 fizzbuzz*.tgz
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
