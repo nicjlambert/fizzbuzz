@@ -1,5 +1,5 @@
 Package: fizzbuzz
-Title: Fizzbuzz
+Title: fizzbuzz
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Nicholas",
@@ -10,3 +10,5 @@ Description: An implementation of the FizzBuzz task.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

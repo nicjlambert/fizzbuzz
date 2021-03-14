@@ -1,1 +1,4 @@
 .Rproj.user
+fizzbuzz.Rcheck/
+fizzbuzz*.tar.gz
+fizzbuzz*.tgz
