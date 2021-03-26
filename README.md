@@ -8,10 +8,11 @@ The goal of fizzbuzz is to show how to solve this common interview question.
 
 ## Installation
 
-You can install the released version of fizzbuzz with:
+You can install the development version of fizzbuzz with:
 
 ``` r
-install.packages("fizzbuzz")
+install.packages('devtools')
+devtools::install_github("MaguireMaName/fizzbuzz")
 ```
 
 ## Example
