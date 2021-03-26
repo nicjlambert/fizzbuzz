@@ -23,6 +23,6 @@ This is a basic example which shows you how to solve a common problem:
 library(fizzbuzz)
 
 ## basic example code
-fizzbuzz::divisibleBy(1:100,c(3,5))
+fizzbuzz::divisibleBy(range = 1:100, triggers = c(3,5))
 ```
 
